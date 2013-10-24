@@ -1,0 +1,17 @@
+LIBRARY	"HTCSensorSDK"
+
+EXPORTS
+	HTCLightSensorGetPollingInterval
+	HTCLightSensorSetPollingInterval
+	HTCSensorClose
+	HTCSensorGetDataOutput
+	HTCSensorGetPollingInterval
+	HTCSensorGetPostureAngle
+	HTCSensorGetPromptAngle
+	HTCSensorGetSensitivity
+	HTCSensorListener
+	HTCSensorOpen
+	HTCSensorQueryCapability
+	HTCSensorSetPollingInterval
+	HTCSensorSetPostureAngle
+	HTCSensorSetSensitivity
